@@ -1,0 +1,7 @@
+{
+  "Name": "MyWebsiteOAC",
+  "Description": "OAC for my website",
+  "OriginAccessControlOriginType": "s3",
+  "SigningBehavior": "always",
+  "SigningProtocol": "sigv4"
+}
